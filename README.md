@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-# Home.html
+ Home.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -87,7 +87,7 @@ Publish the website in the given URL.
   </body>
 </html>
 ```
-# People.html
+ People.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -295,7 +295,7 @@ Publish the website in the given URL.
     </body>
 </html>
 ```
-# Products.html
+ Products.html
 ```
 <!DOCTYPE html>
 <html lang="en">
